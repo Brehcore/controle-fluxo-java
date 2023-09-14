@@ -27,7 +27,7 @@ public class SistemaMedida {
 			System.out.println("Valor indefinido!");
 		}
        
-
+		sc.close();
 	}
 
 }
